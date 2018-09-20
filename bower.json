@@ -1,0 +1,8 @@
+{
+	"name": "origami-demo-yannis",
+	"dependencies": {
+		"o-colors": "^3.3.0",
+		"o-fonts": "^3.0.4",
+		
+	}
+}
